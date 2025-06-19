@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Política de Privacidad</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #1a1a1a;
+    }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidad</h1>
+  <p><strong>Última actualización:</strong> 19 de junio de 2025</p>
+  <p>
+
+Política de Privacidad
+Última actualización: 19 de junio de 2025
+
+Esta Política de Privacidad describe cómo la aplicación móvil One Under (en adelante, “la Aplicación”) recopila, utiliza, almacena y protege los datos personales de los usuarios. Al utilizar la Aplicación, aceptas las prácticas descritas a continuación.
+
+1. Responsable del Tratamiento
+Nombre completo: Gonzalo Álvarez Sánchez
+Correo de contacto: gonzoas96@gmail.com
+
+2. Información que Recopilamos
+Podemos recopilar las siguientes categorías de datos personales y técnicos:
+
+Datos de identificación: nombre, correo electrónico, UID de sesión.
+
+Datos de uso: resultados de rondas de golf, apuestas registradas, hándicaps, puntuaciones por hoyo y estadísticas del jugador.
+
+Datos técnicos: modelo del dispositivo, sistema operativo, dirección IP, eventos de uso dentro de la app.
+
+Ubicación (opcional): únicamente si el usuario concede permiso explícito, para mostrar campos de golf cercanos o mapear salidas.
+
+3. Finalidades del Tratamiento
+Utilizamos tus datos personales para las siguientes finalidades:
+
+Proporcionar la funcionalidad central de la Aplicación.
+
+Guardar y mostrar tus estadísticas, apuestas y resultados.
+
+Sincronizar datos entre dispositivos mediante PowerSync.
+
+Almacenar y respaldar tu información en Supabase, nuestro proveedor de base de datos segura.
+
+Detectar y prevenir usos indebidos, fraudes o accesos no autorizados.
+
+Cumplir con requerimientos legales o regulatorios.
+
+4. Base Legal
+El tratamiento de datos se basa en:
+
+Tu consentimiento explícito al registrarte y usar la Aplicación.
+
+El interés legítimo del responsable para operar y mejorar la app.
+
+Obligaciones legales conforme al GDPR, la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (México), y otras normativas aplicables.
+
+5. Almacenamiento y Seguridad
+Tus datos se almacenan en servidores seguros de Supabase, en cumplimiento con prácticas de seguridad internacionales.
+
+Los datos se sincronizan mediante PowerSync, respetando tus permisos y reglas de acceso.
+
+Se implementan medidas técnicas y organizativas para evitar el acceso no autorizado, pérdida o alteración.
+
+6. Compartición de Datos
+No vendemos, rentamos ni compartimos tus datos personales con terceros, salvo en los siguientes casos:
+
+Proveedores tecnológicos que nos ayudan a operar la Aplicación (Supabase y PowerSync), bajo contratos de confidencialidad.
+
+Autoridades legales, si es requerido por ley o por una orden judicial.
+
+Otros usuarios de la aplicación, solo cuando tú lo permitas explícitamente (por ejemplo, al compartir una ronda).
+
+7. Derechos del Usuario
+Como usuario, tienes derecho a:
+
+Acceder a tus datos personales.
+
+Rectificar información incorrecta o desactualizada.
+
+Cancelar tu cuenta y los datos asociados.
+
+Oponerte al tratamiento para ciertas finalidades.
+
+Solicitar la portabilidad de tus datos.
+
+Puedes ejercer estos derechos escribiendo a: gonzoas96@gmail.com
+
+8. Conservación de Datos
+Mantendremos tus datos mientras tengas una cuenta activa. Si solicitas la eliminación de tu cuenta, eliminaremos tus datos salvo que debamos conservarlos por obligación legal o para defensa en un procedimiento legal.
+
+9. Menores de Edad
+La Aplicación no está dirigida a menores de 13 años. No recopilamos conscientemente datos de menores sin autorización parental verificable.
+
+10. Cambios a esta Política
+Nos reservamos el derecho de modificar esta política. Cualquier cambio será notificado dentro de la app o por correo electrónico, y entrará en vigor desde su publicación.
+
+Contacto
+Si tienes dudas sobre esta política o sobre el manejo de tus datos, puedes contactarnos en:
+📩 gonzoas96@gmail.com
+👤 Gonzalo Álvarez Sánchez, responsable del tratamiento de datos</p>
+</body>
+</html>
+
