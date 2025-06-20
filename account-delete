@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Eliminación de cuenta – One Under</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #1a1a1a;
+    }
+  </style>
+</head>
+<body>
+  <h1>Eliminación de cuenta en la aplicación One Under</h1>
+
+  <p>Esta página aplica a la app <strong>One Under</strong>, desarrollada por <strong>Gonzalo Álvarez Sánchez</strong>, publicada en la Google Play Store.</p>
+
+  <h2>¿Cómo solicito la eliminación de mi cuenta?</h2>
+  <p>Para eliminar tu cuenta y los datos asociados, por favor envía un correo electrónico a:</p>
+  <p><strong>gonzoas96@gmail.com</strong></p>
+  <p>Incluye en tu mensaje:</p>
+  <ul>
+    <li>Tu nombre de usuario o dirección de correo utilizada en la app</li>
+    <li>Confirmación de que deseas eliminar tu cuenta</li>
+  </ul>
+  <p>Recibirás una respuesta de confirmación dentro de un plazo máximo de 5 días hábiles.</p>
+
+  <h2>¿Qué datos se eliminan?</h2>
+  <p>Se eliminarán permanentemente los siguientes datos:</p>
+  <ul>
+    <li>Tu cuenta y credenciales de acceso</li>
+    <li>Tus estadísticas de juego y rondas jugadas</li>
+    <li>Historial de apuestas y balances</li>
+    <li>Datos relacionados con perfiles de jugadores creados por ti</li>
+  </ul>
+
+  <h2>¿Qué datos se conservan?</h2>
+  <p>Con fines legales o de auditoría, podemos conservar temporalmente:</p>
+  <ul>
+    <li>Registros de actividad (logs) durante un máximo de 30 días</li>
+    <li>Datos compartidos con otros usuarios (por ejemplo, en rondas grupales), que permanecerán visibles para esos usuarios</li>
+  </ul>
+
+  <h2>Periodo de retención</h2>
+  <p>Una vez confirmada tu solicitud, los datos se eliminarán de forma irreversible en un plazo máximo de 7 días naturales.</p>
+
+  <p>Si tienes preguntas adicionales, puedes contactarnos en cualquier momento al correo indicado.</p>
+
+  <hr />
+  <p>Última actualización: 19 de junio de 2025</p>
+</body>
+</html>
